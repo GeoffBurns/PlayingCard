@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "PlayingCard",
     platforms: [
-          .iOS(.v14),
+          .iOS(.v11),
           .macOS(.v11)
       ],
     products: [
