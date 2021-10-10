@@ -4,7 +4,8 @@
 import PackageDescription
 
 let package = Package(
-    name: "PlayingCard",
+    name: "PlayingCard", 
+    defaultLocalization: "en",
     platforms: [
           .iOS(.v14),
           .macOS(.v11)
