@@ -25,7 +25,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .target(
             name: "PlayingCard",
-            dependencies: ["Utilities"]),
+            dependencies: ["Utilities"],
+            resources: [.process("Resources")]),
         .testTarget(
             name: "PlayingCardTests",
             dependencies: ["PlayingCard"]),
