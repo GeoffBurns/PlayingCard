@@ -9,8 +9,7 @@ import Utilities
 
 
 public class PlayingCardLocalization : ILocalizationRepository
-{
-
+{ 
     
     public static let shared = PlayingCardLocalization()
   
