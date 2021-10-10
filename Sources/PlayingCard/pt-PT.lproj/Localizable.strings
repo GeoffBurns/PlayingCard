@@ -207,4 +207,9 @@ Win="Vitória";
 Wins="Vitórias";
 "You have %d Wins"="Você tem %d vitórias";
 "%@ %d Wins"="%@ : %d Vitórias";
+Hit="Acertar";
+Stand="Parar";
+Double="Dobrar";
+Split="Dividir";
+Surrender="Pendição";
 

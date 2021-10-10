@@ -195,5 +195,8 @@ Win="Win";
 Wins="Wins";
 "You have %d Wins"="You have %d Wins";
 "%@ %d Wins"="%@ : %d Wins";
-
+Hit="Hit";
+Stand="Stand";
+Double="Double";
+Split="Split";
 

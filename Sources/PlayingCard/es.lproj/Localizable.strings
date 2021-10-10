@@ -200,5 +200,10 @@ Win="Victoria";
 Wins="Victorias";
 "You have %d Wins"="Usted tiene 1 Victorias";
 "%@ %d Wins"="%@ : %d Victorias";
+Hit="Carta";
+Stand="Plantarse";
+Double="Doblar";
+Split="Separar";
+Surrender="Rendirse";
 
 

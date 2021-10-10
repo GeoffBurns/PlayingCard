@@ -198,6 +198,11 @@ Points="Punkte";
 Win="Siege";
 Wins="Siege";
 "You have %d Wins"="Sie haben %d Siege";
-"%@ %d Wins"="%@ : %d Siege";
-
+"%@ %d Wins"="%@ : %d Siege"; 
+Hit="Draw";
+Stand="Stand";
+Double="Verdoppeln";
+Split="Splits";
+Surrender="Aufgeben";
+ 
 

@@ -194,4 +194,8 @@ Win="Vincere";
 Wins="Vittorie";
 "You have %d Wins"="Hai %d Vittorie";
 "%@ %d Wins"="%@ : %d Vittorie";
-
+Hit="Carta";
+Stand="Stare";
+Double="Raddoppio";
+Split="Divisione";
+Surrender="Resa"; 
