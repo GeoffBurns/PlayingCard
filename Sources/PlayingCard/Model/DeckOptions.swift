@@ -49,7 +49,8 @@ public class DeckOptions : IDeckOptions
     public var isAceHigh =  true
     public var hasFool =  true
     public var makeDeckEvenlyDivisible  =  true
-    public var noOfSuitesDefault : Int  = 5 
+    public var noOfSuitesDefault : Int  = 5
+    public init() {}
 }
 public class GameRules : IGameRules
 {
